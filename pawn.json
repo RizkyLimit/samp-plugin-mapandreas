@@ -1,5 +1,5 @@
 {
-  "user": "philip1337",
+  "user": "RizkyLimit",
   "repo": "samp-plugin-mapandreas",
   "resources": [
     {
@@ -26,7 +26,7 @@
     }
   ],
   "runtime": {
-    "plugins": ["philip1337/samp-plugin-mapandreas"]
+    "plugins": ["RizkyLimit/samp-plugin-mapandreas"]
   },
-  "contributors": ["philip1337"]
+  "contributors": ["RizkyLimit"]
 }
